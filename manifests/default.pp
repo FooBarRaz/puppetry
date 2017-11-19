@@ -14,5 +14,6 @@ class { 'postgresql::server':
 }
 
 postgresql::server::db { 'shotcaller_development':
-   #user       => 'shotcaller',
+   user    => 'shotcaller',
+   password => ''
 }

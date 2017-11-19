@@ -1,6 +1,6 @@
 forge "http://forge.puppetlabs.com"
 
-mod 'puppetlabs/stdlib',  '4.5.1'
+mod 'puppetlabs/stdlib',  '4.22.0'
 mod 'puppetlabs-apt', '4.4.0'
 mod 'puppetlabs-concat', '4.1.1'
 
